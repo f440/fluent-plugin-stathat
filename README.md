@@ -1,4 +1,4 @@
-# Fluent::Plugin::Stathat
+# Fluent::Plugin::Stathat, a plugin for [Fluentd](http://fluentd.org)
 
 StatHat output plugin for Fluentd.
 
